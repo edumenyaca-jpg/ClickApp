@@ -11,6 +11,7 @@ Un clicker minimalista fet per una sola cosa: **clicar sense haver de pensar en 
 - **Cada clic suma `+1`.** Això és tot. Aquesta és la màgia.
 - **Arc de Sant Martí:** el fons va canviant de color a mesura que acumules clics.
 - **La puntuació es desa automàticament** al navegador, encara que tanquis la pàgina.
+- 
 - **Preparat per a mòbil i PC**, amb controls tàctils i ratolí.
 - **Instal·lable com una PWA**: es pot afegir a la pantalla d'inici com si fos una aplicació.
 - **Sense comptes ni servidors:** la puntuació es queda al teu dispositiu.
